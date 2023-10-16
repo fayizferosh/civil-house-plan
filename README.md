@@ -20,6 +20,6 @@ All the saved plan from AutoCAD and output design in PDF are uploaded.
 
 ## Reference Youtube Videos
 
-[![Making a simple floor plan in AutoCAD: Part 1 of 3](https://img.youtube.com/vi/hO865EIE0p0/maxresdefault.jpg)](https://www.youtube.com/watch?v=hO865EIE0p0)
-[![Making a simple floor plan in AutoCAD: Part 2 of 3](https://img.youtube.com/vi/-iX-ZyvOiQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-iX-ZyvOiQA)
-[![Making a simple floor plan in AutoCAD: Part 3 of 3](https://img.youtube.com/vi/2n5AIkPvIjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=2n5AIkPvIjA)
+[![Making a simple floor plan in AutoCAD: Part 1 of 3](https://img.youtube.com/vi/hO865EIE0p0/0.jpg)](https://www.youtube.com/watch?v=hO865EIE0p0)
+[![Making a simple floor plan in AutoCAD: Part 2 of 3](https://img.youtube.com/vi/-iX-ZyvOiQA/0.jpg)](https://www.youtube.com/watch?v=-iX-ZyvOiQA)
+[![Making a simple floor plan in AutoCAD: Part 3 of 3](https://img.youtube.com/vi/2n5AIkPvIjA/0.jpg)](https://www.youtube.com/watch?v=2n5AIkPvIjA)
