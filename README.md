@@ -16,7 +16,7 @@ All the saved plan from AutoCAD and output design in PDF are uploaded.
 
 ## AutoCAD Final Design
 
-![Screenshot 2023-10-16 082516](https://github.com/fayizferosh/civil-house-plan/assets/63997454/977bc852-9653-4be4-baf5-84fa07381033)
+![Screenshot 2023-10-16 082516](https://github.com/fayizferosh/civil-house-plan/assets/63997454/5c13e2ae-49c4-4e51-92b9-dd20c4138af5)
 
 ## Reference Youtube Videos
 
