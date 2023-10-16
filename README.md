@@ -3,10 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/OS-Windows-orange)
 ![Static Badge](https://img.shields.io/badge/Tool-Autodesk_AutoCAD-navy)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fayizferosh/civil-house-plan)
-![GitHub language count](https://img.shields.io/github/languages/count/fayizferosh/civil-house-plan)
-![GitHub top language](https://img.shields.io/github/languages/top/fayizferosh/civil-house-plan)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fayizferosh/civil-house-plan)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fayizferosh/civil-house-plan)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/fayizferosh/civil-house-plan)
 
 > As part first year Btech Civil course I had to make miniature house and I did the same by drawing a house plan using Autodesk AutoCAD.
